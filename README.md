@@ -12,7 +12,6 @@ This Flask application allows users to upload PDF documents (preferably in Marat
 - [Setup](#setup)
 - [Running the Application](#running-the-application)
 - [Note](#note)
-- [Contributing](#contributing)
 
 ## Prerequisites
 
